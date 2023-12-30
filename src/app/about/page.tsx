@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-export default function about() {
+export default function page() {
   return (
     
     <div className='flex justify-center bg-gray-300' m-10>

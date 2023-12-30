@@ -7,3 +7,4 @@ export default function layout() {
     <main> contentfull</main>
   )
 }
+
